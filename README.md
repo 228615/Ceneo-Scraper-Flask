@@ -28,4 +28,3 @@
 - pandas
 - numpy
 - matplotlib
-- flask
